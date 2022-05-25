@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José Manuel Martínez (joss314)
-- 👀 I’m interested in modelling in different mathematical areas
+- 👀 I’m interested in modeling in different mathematical areas
 - 🌱 I’m currently learning about regression, research operations and statistical learning. 
 - 💞️ I’m looking to collaborate on projects involving any of this topics or applied or pure mathematics. 
 - 📫 My email is josemanuelmtzcampo@gmail.com
