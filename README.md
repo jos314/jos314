@@ -1,3 +1,3 @@
 - 👋 Hi, I’m José Manuel Martínez (joss314)
-- 👀 I’m interested in Bayesian inference, non-parametric Bayesian models and Statistics. 
+- 👀 I’m interested in Bayesian inference, non-parametric Bayesian models and some other pure mathematics subjects. 
 - 📫 My email is josemanuelmtzcampo@gmail.com
